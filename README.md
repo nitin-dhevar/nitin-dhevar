@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Nitin
-- 👀 I’m currently an Masters in Computer Science Student at NC State University
-- 🌱 I have around 3 years experience in software engineering, web development and cloud technologies
-- 💞️ I’m looking for full time and internship opportunities in the field of software engineering, web development and data science.
-- 📫 You can email me at nitin.dhanabalan@gmail.com or nddhevar@ncsu.edu
+
 
 <!--
 **nitin-dhevar/nitin-dhevar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
